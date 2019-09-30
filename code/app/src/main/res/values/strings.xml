@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ahnaf3-RideBook</string>
+    <string name="welcome">Welcome!</string>
+    <string name="novals">No Entries....</string>
+    <string name="addEntryTitle">Enter a ride:</string>
+    <string name="editEntryTitle">Update/Delete ride:</string>
+    <string name="distance">Distance:</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="aveSpeed">Average Speed:</string>
+    <string name="aveCadence">Average Cadence:</string>
+    <string name="comments">Comments.....</string>
+</resources>
